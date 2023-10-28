@@ -1,0 +1,78 @@
+
+video
+-------------
+width="320"
+height="240"
+
+control
+autoplay
+muted
+
+source
+----------------
+src="newsong.mp4"
+type="video/mp4"
+type="video/ogg"
+
+
+audio
+------------------
+controls
+autoplay
+muted
+
+source
+----------------
+src="sound.mp3"
+type="audio/ogg"
+type="audio/mnp3"
+
+
+YouTube Video
+-------------
+
+iframe
+----
+embed
+
+autoplay=1 & mute=1
+
+
+Google Map 
+------------------
+
+https://www.embedgooglemap.net/
+
+
+
+
+
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+</iframe>
+
+
+
+
+
+
+
+
+
+<audio controls>
+  <source src="sound.ogg" type="audio/mp3">
+  <source src="horse.mp3" type="audio/mpeg"> 
+</audio>
+
+
+
+
+
+
+
+
+
+<video width="320" height="240" >
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg"> 
+</video>
